@@ -19,5 +19,7 @@ public class Bbs {
   private String createdAt;
   private String updatedAt;
   private String deletedAt;
+
+  private String group;
   
 }
